@@ -54,6 +54,7 @@ find_package(catkin REQUIRED COMPONENTS
    FILES
    FourierCoefsMsg.msg
    ClusterMsg.msg
+   ProjectionWithOdomMsg.msg
  )
 
 ## Generate services in the 'srv' folder
