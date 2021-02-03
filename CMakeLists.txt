@@ -55,6 +55,7 @@ find_package(catkin REQUIRED COMPONENTS
    FourierCoefsMsg.msg
    ClusterMsg.msg
    ProjectionWithOdomMsg.msg
+   TrajList.msg
  )
 
 ## Generate services in the 'srv' folder
@@ -78,6 +79,7 @@ find_package(catkin REQUIRED COMPONENTS
    nav_msgs
    sensor_msgs
    std_msgs
+
  )
 
 ################################################
